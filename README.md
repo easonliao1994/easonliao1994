@@ -7,8 +7,8 @@
 
 ## Education
 
-- Part-time Master's program in Information Management
-- Master's program in Information Management
+- In-progress: In-service Master's degree in Information Management
+- Bachelor's degree in Information Management
 
 ## Skills
 

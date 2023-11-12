@@ -17,4 +17,4 @@
 - Experience in cloud platforms such as Amazon Web Services
 - Experience in database management systems such as MySQL and PostgreSQL
 
-![easonliao1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=easonliao1994&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easonliao1994&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![easonliao1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=easonliao1994&count_private=true&show_icons=true&theme=catppuccin_latte) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easonliao1994&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
